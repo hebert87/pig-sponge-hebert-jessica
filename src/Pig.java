@@ -16,6 +16,14 @@ public class Pig {
     * pigLatin("e")   should return "e"
     */
     public static void main(String[] args) {
+        //pigLatinWord =""
+        //eachWord list for each test []
+        //for (i=0 ; 0<eachWord.len ; i++)
+        // get first letter
+        //check if its vowel
+        // if its a vowel pigLatinWord+=sentence
+        // else sentence.substring(1) + first letter +"ay"
+        //
         // Test cases
         assertEqual(1, pigLatin("something"), "omethingsay");
         assertEqual(2, pigLatin("awesome"), "awesome");
@@ -26,6 +34,8 @@ public class Pig {
 
     // Implement your solution here!
     public static String pigLatin(String sentence) {
+        String pigLatinWord ="";
+        String [] 
         return null;
     }
 
